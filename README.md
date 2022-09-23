@@ -1,5 +1,6 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
-# Recode Dari @adiwajshing/Baileys 
+# Recode Dari 
+> @adiwajshing/Baileys 
  
  <p align="center">
 <img width="" src="https://img.shields.io/github/repo-size/BOTCAHX/Baileys?color=red&label=Repo%20Size&style=for-the-badge&logo=appveyor">
