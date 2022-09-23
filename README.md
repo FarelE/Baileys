@@ -2,8 +2,8 @@
 # Recode Dari 
 > @adiwajshing/Baileys 
  
- <p align="center">
-<img width="" src="https://img.shields.io/github/repo-size/BOTCAHX/Baileys?color=red&label=Repo%20Size&style=for-the-badge&logo=appveyor">
+<p align="center">
+<img width="" src="https://img.shields.io/github/repo-size/BOTCAHX/Baileys?color=yellow&label=Repo%20Size&style=for-the-badge&logo=appveyor">
 </p>
 
 > **Warning**: 
