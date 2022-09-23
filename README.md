@@ -7,7 +7,7 @@
 </p>
 
 > **Warning**: 
-> Recode cuma nyoba buat single auth doang kl gak work ya maaf,
+> Recode cuma nyoba buat single auth doang kl gak work ya lapor aja ke gua,
 
 > Kalo pengen terbaru pakai original script,
 
